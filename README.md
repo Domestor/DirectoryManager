@@ -18,19 +18,16 @@
 
 ### Installation:
 
-    ```bash
     git clone https://github.com/Domestor/DirectoryManager.git
-    ```
-    ```bash
+
     pip install -r requirements.txt
-    ```
+
 
 ### Usage:
-    ```bash
+
     cd DirectoryManager
-    ```
-    ```bash
+
     python directory_manager.py
-    ```
+ 
 
 the program was created for the purpose of practicing python knowledge 
